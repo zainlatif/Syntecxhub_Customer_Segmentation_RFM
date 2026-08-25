@@ -6,6 +6,10 @@ A data-driven customer segmentation project using **Recency, Frequency, and Mone
 
 This project analyzes retail customer transaction data to segment customers into actionable groups for strategic marketing and retention initiatives.
 
+## Dataset
+
+The dataset is available on [Kaggle](https://www.kaggle.com/datasets/zainlatif/superstore-sales-dataset).
+
 ## Project Structure
 
 ```
